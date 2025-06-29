@@ -4,7 +4,3 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-
-[[test]]
-name = "common_tests"
-path = "tests/common_tests.rs"
